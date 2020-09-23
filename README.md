@@ -1,2 +1,2 @@
 # LaravelWithJWT
-# Larvel with Jwt Auth uisng tymon/jwt-Auth
+# Laravel with Jwt Auth using Tymon/jwt-Auth
